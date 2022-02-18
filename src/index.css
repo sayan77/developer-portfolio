@@ -237,7 +237,11 @@ a {
     padding: 50px 30px;
   }
 
-  .project .card {
+  .project .cards {
     grid-template-columns: 1fr;
+  }
+
+  .project .cards p {
+    font-size: 15px;
   }
 }
